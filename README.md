@@ -55,6 +55,12 @@ Topic | Resource
 ---|---
 Documentation | [Lua Documentation](http://www.lua.org/docs.html)
 
+### Markdown
+Topic | Resource
+---|---
+Documentation | [Markdown Tutorial](http://daringfireball.net/projects/markdown/syntax)
+Tour | [Markdown Tutorial](http://markdowntutorial.com/)
+
 ### Python
 Topic | Resource
 ---|---
