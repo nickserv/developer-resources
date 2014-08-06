@@ -50,11 +50,6 @@ Topic | Resource
 ---|---
 Documentation | [JavaScript on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### JavaScript with Node.js
-Topic | Resource
----|---
-Documentation | [Node.js Documentation](http://nodejs.org/documentation/)
-
 ### Lua
 Topic | Resource
 ---|---
@@ -72,6 +67,13 @@ Documentation | [ruby-doc.org](http://www.ruby-doc.org/)
 Book | [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
 Tour | [Try Ruby](http://tryruby.org/)
 Style Guide | [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+
+## Libraries & Frameworks
+
+### Node.js
+Topic | Resource
+---|---
+Documentation | [Node.js Documentation](http://nodejs.org/documentation/)
 
 ## Tools
 
