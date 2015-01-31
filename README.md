@@ -66,7 +66,7 @@ Topic | Resource
 ---|---
 Website | [www.python.org](https://www.python.org/)
 Documentation | [Official Python Documentation](https://docs.python.org/)
-Style Guide | [PEP8](http://legacy.python.org/dev/peps/pep-0008/)
+Style Guide | [PEP8](https://www.python.org/dev/peps/pep-0008/)
 Online Book (Beginner) | [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 Online Book | [Dive Into Python 3](http://www.diveintopython3.net/)
 
