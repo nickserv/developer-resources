@@ -1,6 +1,9 @@
 # Developer Resources
 A collection of developer resources for many languages and tools.
 
+## Note on Style Guides
+Some of the style guides listed here are unofficial. Where there is not an official style guide, I have attempted to add the most important and popular style guides used in the community (though this is a somewhat subjective process).
+
 ## General
 Topic | Resource
 ---|---
@@ -16,11 +19,18 @@ Questions & Answers | [Stack Overflow](http://stackoverflow.com/)
 Topic | Resource
 ---|---
 Tour | [Try Clojure](http://tryclj.com/)
+Style Guide | [bbatsov's Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
+### CoffeeScript
+Topic | Resource
+---|---
+Style Guide | [Polar's CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
 
 ### CSS
 Topic | Resource
 ---|---
 Documentation | [CSS on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
+Style Guide | [GitHub CSS Styleguide](https://github.com/styleguide/css)
 
 ### Go
 Topic | Resource
@@ -39,27 +49,37 @@ Tour | [Try Haskell](http://tryhaskell.org/)
 Topic | Resource
 ---|---
 Documentation | [HTML on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
+Style Guide | [GitHub Markup and templates Styleguide](https://github.com/styleguide/templates)
 
 ### Java
 Topic | Resource
 ---|---
 Documentation | [Java SE Documentation](http://docs.oracle.com/javase/)
+Style Guide | [Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
 
 ### JavaScript
 Topic | Resource
 ---|---
 Documentation | [JavaScript on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+Style Guide | [Douglas Crockford's Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
+Style Guide | [GitHub JavaScript Coding Style](https://github.com/styleguide/javascript)
 
 ### Lua
 Topic | Resource
 ---|---
 Documentation | [Lua Documentation](http://www.lua.org/docs.html)
+Style Guide | [lua-users.org Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
 
 ### Markdown
 Topic | Resource
 ---|---
 Documentation | [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
 Tour | [Markdown Tutorial](http://markdowntutorial.com/)
+
+### Objective-C
+Topic | Resource
+---|---
+Style Guide | [Programming with Objective-C: Conventions](https://developer.apple.com/library/ios/documentation/cocoa/conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1)
 
 ### Python
 Topic | Resource
@@ -77,6 +97,7 @@ Documentation | [ruby-doc.org](http://www.ruby-doc.org/)
 Book | [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
 Tour | [Try Ruby](http://tryruby.org/)
 Style Guide | [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+Style Guide | [GitHub Ruby Styleguide](https://github.com/styleguide/ruby)
 
 ## Libraries & Frameworks
 
@@ -90,6 +111,7 @@ Topic | Resource
 ---|---
 Documentation | [Ruby on Rails API](http://api.rubyonrails.org/)
 Guides | [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+Style Guide | [bbatsov's Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 
 ## Tools
 
