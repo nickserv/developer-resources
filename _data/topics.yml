@@ -1,0 +1,237 @@
+-
+  name: General
+  resources:
+    -
+      type: Game Patterns
+      name: Game Programming Patterns
+      url: http://gameprogrammingpatterns.com/
+    -
+      type: Language Syntax Comparisons
+      name: Hyperpolyglot
+      url: http://hyperpolyglot.org/
+    -
+      type: Patterns
+      name: SourceMaking
+      url: http://sourcemaking.com/
+    -
+      type: Programming Chrestomathy
+      name: Rosetta Code
+      url: http://rosettacode.org/wiki/Rosetta_Code
+    -
+      type: Questions & Answers
+      name: Stack Overflow
+      url: http://stackoverflow.com/
+
+# Languages
+-
+  name: Clojure
+  resources:
+    -
+      type: Tour
+      name: Try Clojure
+      url: http://tryclj.com/
+    -
+      type: Style Guide
+      name: bbatsov's Clojure Style Guide
+      url: https://github.com/bbatsov/clojure-style-guide
+-
+  name: CoffeeScript
+  resources:
+    -
+      type: Style Guide
+      name: Polar's CoffeeScript Style Guide
+      url: https://github.com/polarmobile/coffeescript-style-guide
+-
+  name: CSS
+  resources:
+    -
+      type: Documentation
+      name: CSS on Mozilla Developer Network
+      url: https://developer.mozilla.org/en-US/docs/Web/CSS
+    -
+      type: Style Guide
+      name: GitHub CSS Styleguide
+      url: https://github.com/styleguide/css
+-
+  name: Go
+  resources:
+    -
+      type: Documentation
+      name: Standard Go Packages
+      url: http://golang.org/pkg/
+    -
+      type: Tour
+      name: A Tour of Go
+      url: http://tour.golang.org/
+-
+  name: Haskell
+  resources:
+    -
+      type: Documentation
+      name: Haskell Hierarchal Libraries
+      url: http://www.haskell.org/ghc/docs/latest/html/libraries/index.html
+    -
+      type: Book
+      name: Learn You a Haskell
+      url: Learn You a Haskell
+    -
+      type: Tour
+      name: Try Haskell
+      url: http://tryhaskell.org/
+-
+  name: HTML
+  resources:
+    -
+      type: Documentation
+      name: HTML on Mozilla Developer Network
+      url: https://developer.mozilla.org/en-US/docs/Web/HTML
+    -
+      type: Style Guide
+      name: GitHub Markup and templates Styleguide
+      url: https://github.com/styleguide/templates
+-
+  name: Java
+  resources:
+    -
+      type: Documentation
+      name: Java SE Documentation
+      url: http://docs.oracle.com/javase/
+    -
+      type: Style Guide
+      name: Code Conventions for the Java Programming Language
+      url: http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
+-
+  name: JavaScript
+  resources:
+    -
+      type: Documentation
+      name: JavaScript on Mozilla Developer Network
+      url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    -
+      type: Style Guide
+      name: Douglas Crockford's Code Conventions for the JavaScript Programming Language
+      url: http://javascript.crockford.com/code.html
+    -
+      type: Style Guide
+      name: GitHub JavaScript Coding Style
+      url: https://github.com/styleguide/javascript
+-
+  name: Lua
+  resources:
+    -
+      type: Documentation
+      name: Lua Documentation
+      url: http://www.lua.org/docs.html
+    -
+      type: Style Guide
+      name: lua-users.org Lua Style Guide
+      url: http://lua-users.org/wiki/LuaStyleGuide
+-
+  name: Markdown
+  resources:
+    -
+      type: Documentation
+      name: Markdown Syntax
+      url: http://daringfireball.net/projects/markdown/syntax
+    -
+      type: Tour
+      name: Markdown Tutorial
+      url: http://markdowntutorial.com/
+-
+  name: Objective-C
+  resources:
+    -
+      type: Style Guide
+      name: 'Programming with Objective-C: Conventions'
+      url: https://developer.apple.com/library/ios/documentation/cocoa/conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1
+-
+  name: Python
+  resources:
+    -
+      type: Website
+      name: www.python.org
+      url: https://www.python.org/
+    -
+      type: Documentation
+      name: Official Python Documentation
+      url: https://docs.python.org/
+    -
+      type: Style Guide
+      name: PEP8
+      url: https://www.python.org/dev/peps/pep-0008/
+    -
+      type: Online Book (Beginner)
+      name: Learn Python the Hard Way
+      url: http://learnpythonthehardway.org/book/
+    -
+      type: Online Book
+      name: Dive Into Python 3
+      url: http://www.diveintopython3.net/
+-
+  name: Ruby
+  resources:
+    -
+      type: Documentation
+      name: ruby-doc.org
+      url: http://www.ruby-doc.org/
+    -
+      type: Book
+      name: Programming Ruby
+      url: http://ruby-doc.com/docs/ProgrammingRuby/
+    -
+      type: Tour
+      name: Try Ruby
+      url: http://tryruby.org/
+    -
+      type: Style Guide
+      name: Ruby Style Guide
+      url: https://github.com/bbatsov/ruby-style-guide
+    -
+      type: Style Guide
+      name: GitHub Ruby Styleguide
+      url: https://github.com/styleguide/ruby
+
+# Libraries & Frameworks
+-
+  name: Node.js
+  resources:
+    -
+      type: Documentation
+      name: Node.js Documentation
+      url: http://nodejs.org/documentation/
+-
+  name: Ruby on Rails
+  resources:
+    -
+      type: Documentation
+      name: Ruby on Rails API
+      url: http://api.rubyonrails.org/
+    -
+      type: Guides
+      name: Ruby on Rails Guides
+      url: http://guides.rubyonrails.org/
+    -
+      type: Style Guide
+      name: bbatsov's Rails Style Guide
+      url: https://github.com/bbatsov/rails-style-guide
+
+# Tools
+-
+  name: Git
+  resources:
+    -
+      type: Documentation
+      name: Git Reference
+      url: http://git-scm.com/docs
+    -
+      type: Book
+      name: Pro Git
+      url: http://git-scm.com/book/
+    -
+      type: Tour
+      name: Try Git
+      url: https://try.github.io/
+    -
+      type: Style Guide
+      name: A Note About Git Commit Messages
+      url: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html

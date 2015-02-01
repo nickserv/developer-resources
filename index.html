@@ -1,0 +1,18 @@
+---
+---
+
+{% for topic in site.data.topics %}
+  <h2>{{ topic.name }}</h2>
+  <table>
+    <tr>
+      <th>Topic</th>
+      <th>Resource</th>
+    </tr>
+    {% for resource in topic.resources %}
+      <tr>
+        <td>{{ resource.type }}</td>
+        <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
+      </tr>
+    {% endfor %}
+  </table>
+{% endfor %}
