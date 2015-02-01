@@ -85,6 +85,12 @@ Topic | Resource
 ---|---
 Documentation | [Node.js Documentation](http://nodejs.org/documentation/)
 
+### Ruby on Rails
+Topic | Resource
+---|---
+Documentation | [Ruby on Rails API](http://api.rubyonrails.org/)
+Guides | [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+
 ## Tools
 
 ### Git
