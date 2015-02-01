@@ -15,6 +15,11 @@ Questions & Answers | [Stack Overflow](http://stackoverflow.com/)
 
 ## Languages
 
+### C++
+Topic | Resource
+---|---
+Style Guide | [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+
 ### Clojure
 Topic | Resource
 ---|---
@@ -26,11 +31,17 @@ Topic | Resource
 ---|---
 Style Guide | [Polar's CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
 
+### Common Lisp
+Topic | Resource
+---|---
+Style Guide | [Google Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+
 ### CSS
 Topic | Resource
 ---|---
 Documentation | [CSS on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 Style Guide | [GitHub CSS Styleguide](https://github.com/styleguide/css)
+Style Guide | [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ### Go
 Topic | Resource
@@ -50,6 +61,7 @@ Topic | Resource
 ---|---
 Documentation | [HTML on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML)
 Style Guide | [GitHub Markup and templates Styleguide](https://github.com/styleguide/templates)
+Style Guide | [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ### Java
 Topic | Resource
@@ -63,6 +75,12 @@ Topic | Resource
 Documentation | [JavaScript on Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 Style Guide | [Douglas Crockford's Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
 Style Guide | [GitHub JavaScript Coding Style](https://github.com/styleguide/javascript)
+Style Guide | [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+
+### JSON
+Topic | Resource
+---|---
+Style Guide | [Google JSON Style Guide](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
 ### Lua
 Topic | Resource
@@ -80,6 +98,7 @@ Tour | [Markdown Tutorial](http://markdowntutorial.com/)
 Topic | Resource
 ---|---
 Style Guide | [Programming with Objective-C: Conventions](https://developer.apple.com/library/ios/documentation/cocoa/conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1)
+Style Guide | [Google Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 
 ### Python
 Topic | Resource
@@ -87,6 +106,7 @@ Topic | Resource
 Website | [www.python.org](https://www.python.org/)
 Documentation | [Official Python Documentation](https://docs.python.org/)
 Style Guide | [PEP8](https://www.python.org/dev/peps/pep-0008/)
+Style Guide | [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 Online Book (Beginner) | [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 Online Book | [Dive Into Python 3](http://www.diveintopython3.net/)
 
@@ -98,6 +118,16 @@ Book | [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
 Tour | [Try Ruby](http://tryruby.org/)
 Style Guide | [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 Style Guide | [GitHub Ruby Styleguide](https://github.com/styleguide/ruby)
+
+### Shell
+Topic | Resource
+---|---
+Style Guide | [Google Shell Style Guide](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
+
+### XML
+Topic | Resource
+---|---
+Style Guide | [Google XML Document Format Style Guide](http://google-styleguide.googlecode.com/svn/trunk/xmlstyle.html)
 
 ## Libraries & Frameworks
 
