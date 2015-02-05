@@ -1,18 +1,30 @@
 ---
 ---
 
-{% for topic in site.data.topics %}
-  <h2>{{ topic.name }}</h2>
-  <table>
-    <tr>
-      <th>Topic</th>
-      <th>Resource</th>
-    </tr>
-    {% for resource in topic.resources %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Developer Resources</title>
+</head>
+
+<body>
+  <h1>Developer Resources</h1>
+
+  {% for topic in site.data.topics %}
+    <h2>{{ topic.name }}</h2>
+    <table>
       <tr>
-        <td>{{ resource.type }}</td>
-        <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
+        <th>Topic</th>
+        <th>Resource</th>
       </tr>
-    {% endfor %}
-  </table>
-{% endfor %}
+      {% for resource in topic.resources %}
+        <tr>
+          <td>{{ resource.type }}</td>
+          <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% endfor %}
+</body>
+</html>
