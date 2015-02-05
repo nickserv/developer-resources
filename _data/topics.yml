@@ -73,7 +73,7 @@
     -
       type: Book
       name: Learn You a Haskell
-      url: Learn You a Haskell
+      url: http://learnyouahaskell.com/
     -
       type: Tour
       name: Try Haskell
