@@ -41,6 +41,15 @@ table {
   clear: left;
   display: block;
   overflow: auto;
+  transition: background-color 0.25s;
+}
+
+.resource:hover {
+  background-color: #333;
+}
+
+.resource:hover .resource-name {
+  text-decoration: underline;
 }
 
 .resource * {
