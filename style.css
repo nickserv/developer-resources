@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #222;
+  color: #aaa;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+  margin: 2em;
+  text-align: center;
+}
+
+a {
+  color: #0074d9;
+}
+
+/* headings */
+
+h1, h2, h3, h4, h5, h6 {
+  clear: left;
+  color: #eee;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.1em;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+/* tables */
+
+table {
+  margin: 0 auto;
+}
+
+.resource {
+  clear: left;
+  display: block;
+  overflow: auto;
+}
+
+.resource * {
+  float: left;
+  width: 50%;
+}
+
+.resource-type {
+  color: #aaa;
+  font-weight: 200;
+  padding-right: 5px;
+  text-align: right;
+}
+
+.resource-name {
+  font-weight: 700;
+  padding-left: 5px;
+  text-align: left;
+}
