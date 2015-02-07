@@ -7,9 +7,7 @@ body {
   color: #aaa;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 20px;
-  margin: 2em;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 1.5em auto;
   max-width: 35em;
   text-align: center;
 }
@@ -24,11 +22,12 @@ h1, h2, h3, h4, h5, h6 {
   clear: left;
   color: #eee;
   letter-spacing: 0.05em;
-  margin-bottom: 0.1em;
+  margin: 0.5em 0 0;
 }
 
 h1 {
   font-weight: 700;
+  margin-bottom: 0.5em;
 }
 
 /* tables */
@@ -41,6 +40,7 @@ table {
   clear: left;
   display: block;
   overflow: auto;
+  padding: 0.25em 0;
   transition: background-color 0.25s;
 }
 
