@@ -8,8 +8,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 20px;
   margin: 1.5em auto;
-  max-width: 35em;
-  text-align: center;
+  max-width: 700px;
 }
 
 a {
@@ -19,7 +18,6 @@ a {
 /* headings */
 
 h1, h2, h3, h4, h5, h6 {
-  clear: left;
   color: #eee;
   letter-spacing: 0.05em;
   margin: 0.5em 0 0;
@@ -33,10 +31,9 @@ h1 {
 /* resources */
 
 .resource {
-  clear: left;
   display: block;
-  overflow: auto;
   padding: 0.25em 0;
+  text-decoration: none;
   transition: background-color 0.25s;
 }
 
@@ -48,20 +45,45 @@ h1 {
   text-decoration: underline;
 }
 
-.resource * {
-  float: left;
-  width: 50%;
-}
-
 .resource-type {
   color: #aaa;
   font-weight: 200;
-  padding-right: 5px;
-  text-align: right;
 }
 
 .resource-name {
   font-weight: 700;
-  padding-left: 5px;
-  text-align: left;
+}
+
+/* media queries */
+
+@media (min-width: 500px) {
+
+  /* headings */
+
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+  }
+
+  /* resources */
+
+  .resource {
+    clear: left;
+    overflow: auto;
+  }
+
+  .resource * {
+    float: left;
+    width: 50%;
+  }
+
+  .resource-type {
+    padding-right: 5px;
+    text-align: right;
+  }
+
+  .resource-name {
+    padding-left: 5px;
+    text-align: left;
+  }
+
 }
